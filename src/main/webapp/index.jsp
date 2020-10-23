@@ -19,7 +19,7 @@
     	<div class="top_center">
             <ul class="top_bars">
             	<li><a href="login.jsp">退出</a>|</li>
-                <li><a href="index.jsp">首页</a>|</li>
+                <li><a href="login.jsp">登录</a>|</li>
                 <li><a href="OrderFormListServlet">我的订单<span class="jt_down"></span></a>|</li>
                 <li><a href="www.briup.com">关注杰普<span class="jt_down"></span></a></li>
             </ul>

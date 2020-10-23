@@ -63,7 +63,7 @@ public class LoginServlet extends HttpServlet {
 			// 把该消费者的订单放入session中
 			session.setAttribute("orderFormList", orderFormList);
 
-			response.sendRedirect("index.jsp");
+			response.sendRedirect("loginAfterIndex.jsp");
 		} else {
 			// 提示信息
 			request.setAttribute("login_msg", "密码或验证码错误！");
